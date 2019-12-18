@@ -23,7 +23,7 @@ def check_password(pas, message):
 
 def pass_list(name):
     if name == 'vk':
-        return 'password_vk'
+        return 'password_vkkk'
     elif name == 'inst':
         return 'password_inst'
     elif name == 'mail':
